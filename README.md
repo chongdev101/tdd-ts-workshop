@@ -40,3 +40,7 @@ front - server ตัวเรียกของปลอมแทน (Mock Funt
 แก้ปัญหา 
     - ลบของที่เขียนมาไม่จำเป็น ออกไป
     
+
+get 
+    - query params 256 ตัวอักษร
+    - data sensitive
